@@ -36,14 +36,14 @@
 
 ##  Like
 - Hit the Gym.
-- Personal development.
+- Development by only one programmer in private.
 - Go into the sauna.
 - Take a bath in a hot springs.
 - Ride a Trek bike.
-- Go surfing.
 - Design by Adobe XD.
+- Catch a wave.
 
 
-
-You could try to check out my web site.(In preparation)
+My web site below.
+(In preparation)
 
