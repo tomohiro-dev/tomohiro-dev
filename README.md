@@ -39,11 +39,11 @@
 - Development by only one programmer in private.
 - Go into the sauna.
 - Take a bath in a hot springs.
-- Ride a Trek bike.
-- Design by Adobe XD.
+- Ride a road bike.(Really like TREK.)
+- Make a design by Adobe XD.
 - Catch a wave.
 
 
 My web site below.
-(In preparation)
+(In preparating)
 
