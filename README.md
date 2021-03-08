@@ -41,6 +41,7 @@
 - Take a bath in a hot springs.
 - Ride a road bike.(Really like TREK.)
 - Make a design by Adobe XD.
+- Make a chart by cacoo.
 - Catch a wave.
 
 
