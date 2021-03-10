@@ -49,7 +49,3 @@
 - Make a chart by cacoo.
 - Catch a wave.
 
-
-My web site below.
-(In preparating)
-
