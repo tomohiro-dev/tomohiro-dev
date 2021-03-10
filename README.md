@@ -8,7 +8,7 @@
 [![](https://raw.githubusercontent.com/soregashi-27/aboutMe/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-## Work
+## Work 💁‍♂️
 🌱 I’m currently learning Kotlin.
 🖥 Mainly web and Android app developing.
 
@@ -21,7 +21,7 @@
 - Css, Scss
 
 
-## Interests
+## Interests 💻
 - Nuxt.js
 - Vuetify
 - Bootstrap
@@ -39,7 +39,7 @@
 - docker
 
 
-##  Like
+## Like 🏋️‍♂️
 - Hit the Gym.
 - Development by only one programmer in private.
 - Go into the sauna.
