@@ -21,11 +21,15 @@
 - Css, Scss
 
 
-
 ## Interests
 - Nuxt.js
 - Vuetify
 - Bootstrap
+- Python
+- Django
+- Flask
+- php
+- laravel
 - Flutter
 - storybook.js
 - Firebase
@@ -33,6 +37,7 @@
 - Swift
 - Amazon Web Service
 - docker
+
 
 ##  Like
 - Hit the Gym.
