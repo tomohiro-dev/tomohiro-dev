@@ -9,7 +9,7 @@
 
 
 ## Work 💁‍♂️
-🖥 Mainly web and Android app developing.
+🖥 Mainly web and Android app developing.\
 🌱 I’m currently learning Python and React.js.
 
 - Kotlin
