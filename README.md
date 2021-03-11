@@ -30,9 +30,8 @@
 - Flask
 - php
 - laravel
+- Dart
 - Flutter
-- storybook.js
-- Firebase
 - React.js
 - Swift
 - Amazon Web Service
