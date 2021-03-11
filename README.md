@@ -9,8 +9,8 @@
 
 
 ## Work 💁‍♂️
-🌱 I’m currently learning Kotlin.
 🖥 Mainly web and Android app developing.
+🌱 I’m currently learning Python and React.js.
 
 - Kotlin
 - Vue.js
