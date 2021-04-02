@@ -27,7 +27,7 @@
 - php
 - laravel
 - React.js
-- docker
+- Docker
 - Kubernetes
 - Amazon Web Service
 
