@@ -21,21 +21,28 @@
 - Css, Scss
 
 
-## Interests 💻
+## Study 💻
+- Python
+- Django
+- php
+- laravel
+- React.js
+- docker
+- Kubernetes
+- Amazon Web Service
+
+
+## Interests 🤓
 - Nuxt.js
 - Vuetify
 - Bootstrap
 - Python
 - Django
 - Flask
-- php
-- laravel
 - Dart
 - Flutter
 - React.js
 - Swift
-- Amazon Web Service
-- docker
 
 
 ## Like 🏋️‍♂️
@@ -47,4 +54,5 @@
 - Make a design by Adobe XD.
 - Make a chart by cacoo.
 - Catch a wave.
+- Meditation.
 
