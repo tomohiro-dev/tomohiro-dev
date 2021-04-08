@@ -10,7 +10,7 @@
 
 ## Work 💁‍♂️
 🖥 Mainly web and Android app developing.\
-🌱 I’m currently learning bqck-end.
+🌱 I’m currently learning back-end.
 
 - Kotlin
 - Vue.js
