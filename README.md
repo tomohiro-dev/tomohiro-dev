@@ -22,14 +22,12 @@
 
 
 ## Study 💻
-- Python
-- Django
-- php
-- laravel
-- React.js
 - Docker
 - Kubernetes
 - Amazon Web Service
+- php
+- laravel
+- Gatsby.js
 
 
 ## Interests 🤓
@@ -42,7 +40,9 @@
 - Dart
 - Flutter
 - React.js
+- Gatsby.js
 - Swift
+
 
 
 ## Like 🏋️‍♂️
