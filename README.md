@@ -26,6 +26,7 @@
 - Kubernetes
 - Amazon Web Service
 - php
+- MySQL
 - laravel
 - Gatsby.js
 
