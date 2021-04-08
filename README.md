@@ -25,9 +25,9 @@
 - Docker
 - Kubernetes
 - Amazon Web Service
-- php
+- PHP
 - MySQL
-- laravel
+- Laravel
 - Gatsby.js
 
 
