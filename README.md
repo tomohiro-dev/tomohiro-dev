@@ -10,7 +10,7 @@
 
 ## Work 💁‍♂️
 🖥 Mainly web and Android app developing.\
-🌱 I’m currently learning Python and React.js.
+🌱 I’m currently learning bqck-end.
 
 - Kotlin
 - Vue.js
