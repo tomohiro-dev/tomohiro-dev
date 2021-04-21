@@ -51,7 +51,7 @@
 - Development by only one programming in private.
 - Go into the sauna.
 - Take a bath in a hot springs.
-- Ride a road bike.(Really like TREK.)
+- Ride a road bike.
 - Make a design by Adobe XD.
 - Make a chart by cacoo.
 - Catch a wave.
