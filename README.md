@@ -9,7 +9,8 @@
 
 
 ## Work 💁‍♂️
-🖥 Mainly web and Android app developing.\
+🖥 Mainly Front-End dev. \
+   Web app and Android app developing.\
 🌱 I’m currently learning back-end.
 
 - Kotlin
