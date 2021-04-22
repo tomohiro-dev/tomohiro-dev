@@ -11,7 +11,6 @@
 ## Work 💁‍♂️
 🖥 Mainly Front-End dev. \
    Web app and Android app developing.\
-🌱 I’m currently learning back-end.
 
 - Kotlin
 - Vue.js
@@ -23,6 +22,8 @@
 
 
 ## Study 💻
+🌱 I’m currently learning back-end.
+
 - Docker
 - Kubernetes
 - Amazon Web Service
