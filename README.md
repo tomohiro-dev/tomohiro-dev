@@ -51,11 +51,10 @@
 ## Like 🏋️‍♂️
 - Hit the Gym.
 - Development by only one programming in private.
-- Go into the sauna.
+- Go into a sauna.
 - Take a bath in a hot springs.
 - Ride a road bike.
-- Make a design by Adobe XD.
-- Make a chart by cacoo.
+- Make a design.
 - Catch a wave.
 - Meditation.
 
