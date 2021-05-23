@@ -25,9 +25,7 @@
 🌱 I’m currently learning back-end.
 
 - Docker
-- Kubernetes
 - Amazon Web Service
-- PHP
 - MySQL
 - Laravel
 - Gatsby.js
