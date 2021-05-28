@@ -37,7 +37,6 @@
 - Bootstrap
 - Python
 - Django
-- Flask
 - Dart
 - Flutter
 - React.js
@@ -48,11 +47,10 @@
 
 ## Like 🏋️‍♂️
 - Hit the Gym.
-- Development by only one programming in private.
+- Go on learning something new.
 - Go into a sauna.
 - Take a bath in a hot springs.
 - Ride a road bike.
-- Make a design.
 - Catch a wave.
 - Meditation.
 
