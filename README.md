@@ -37,10 +37,8 @@
 - Bootstrap
 - Python
 - Django
-- Dart
 - Flutter
 - React.js
-- Gatsby.js
 - Swift
 
 
