@@ -45,7 +45,6 @@
 
 ## Like 🏋️‍♂️
 - Hit the Gym.
-- Go on learning something new.
 - Go into a sauna.
 - Take a bath in a hot springs.
 - Ride a road bike.
