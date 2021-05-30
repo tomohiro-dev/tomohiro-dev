@@ -22,7 +22,7 @@
 
 
 ## Study 💻
-🌱 I’m currently learning back-end.
+🌱 I’m currently learning Back-End.
 
 - Docker
 - Amazon Web Service
