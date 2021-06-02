@@ -34,13 +34,11 @@
 ## Interests 🤓
 - Nuxt.js
 - Vuetify
-- Bootstrap
 - Python
 - Django
 - Flutter
 - React.js
 - Swift
-
 
 
 ## Like 🏋️‍♂️
