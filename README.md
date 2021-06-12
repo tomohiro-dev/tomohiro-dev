@@ -11,6 +11,16 @@
 🖥 Mainly Front-End dev. \
    Web app and Android app developing.
 
+- Kotlin
+- Vue.js
+- storybook.js
+- Javascript
+- Firebase
+- Cordova
+- Css, Scss
+- Nuxt.js
+- Vuetify
+
 
 ## Study 💻
 🌱 I’m currently learning Back-End.
