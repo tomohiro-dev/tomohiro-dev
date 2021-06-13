@@ -33,15 +33,6 @@
 
 
 ## Interests 🤓
-- Kotlin
-- Vue.js
-- storybook.js
-- Javascript
-- Firebase
-- Cordova
-- Css, Scss
-- Nuxt.js
-- Vuetify
 - Python
 - Django
 - Flutter
