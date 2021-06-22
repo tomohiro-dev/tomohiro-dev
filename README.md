@@ -28,6 +28,7 @@
 - Docker
 - Amazon Web Service
 - MySQL
+- Terraform
 - Laravel
 - Gatsby.js
 - Graph QL
