@@ -30,6 +30,7 @@
 - MySQL
 - Laravel
 - Gatsby.js
+- Graph QL
 
 
 ## Interests 🤓
