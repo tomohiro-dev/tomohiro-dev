@@ -2,7 +2,7 @@
 
 ###  Hi there 👋
 
-##### Welcome and thank you for visiting my Github page. Enjoy your stay. 👍
+##### Welcome and thank you for visiting my Github page. Enjoy your stay. 🙂 👍
 
 [![](https://raw.githubusercontent.com/soregashi-27/aboutMe/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
