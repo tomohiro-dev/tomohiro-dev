@@ -35,6 +35,8 @@
 
 
 ## Interests 🤓
+👀 I've touched it a little.
+
 - Python
 - Django
 - Flutter
