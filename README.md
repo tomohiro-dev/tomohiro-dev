@@ -30,13 +30,13 @@
 - MySQL
 - Terraform
 - Laravel
-- Gatsby.js
 - Graph QL
 
 
 ## Interests 🤓
 👀 I've touched it a little.
 
+- Gatsby.js
 - Python
 - Django
 - Flutter
