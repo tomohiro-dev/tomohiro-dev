@@ -38,7 +38,7 @@
 
 - Gatsby.js
 - Python
-- Django
+- Flask
 - Flutter
 - React.js
 - Swift
