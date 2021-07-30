@@ -8,8 +8,8 @@
 
 
 ## Work 💁‍♂️
-🖥 Mainly Front-End dev. \
-   Web app and Android app developing.
+🖥  Mainly Front-End dev. \
+    Web app and Android app developing.
 
 - Kotlin
 - Vue.js
