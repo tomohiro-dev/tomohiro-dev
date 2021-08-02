@@ -32,7 +32,6 @@
 - MySQL
 - Terraform
 - Laravel
-- Graph QL
 
 
 ## Interests 🤓
@@ -44,6 +43,7 @@
 - Flutter
 - React.js
 - Swift
+- Graph QL
 
 
 ## Like 🏋️‍♂️
