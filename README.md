@@ -20,8 +20,7 @@
 - Css, Scss
 - Nuxt.js
 - Vuetify
-- MySQL
-
+- SQL
 
 
 ## Study 💻
