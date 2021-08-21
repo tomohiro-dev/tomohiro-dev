@@ -11,7 +11,6 @@
 🖥  Mainly Front-End dev. \
     Web app and Android app developing.
 
-- Kotlin
 - Vue.js
 - storybook.js
 - Javascript
@@ -20,6 +19,7 @@
 - Css, Scss
 - Nuxt.js
 - Vuetify
+- Kotlin
 - SQL
 
 
