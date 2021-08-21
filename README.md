@@ -26,11 +26,12 @@
 ## Study 💻
 🌱 I’m currently learning about Back-End.
 
+- Laravel
 - Docker
 - Amazon Web Service
 - MySQL
 - Terraform
-- Laravel
+
 
 
 ## Interests 🤓
