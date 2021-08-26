@@ -55,5 +55,5 @@
 - Ride a road bike.
 - Catch a wave.
 - Meditation.
-- Desigining an experience for success.
+- Desigining an experience for someone's success.
 
