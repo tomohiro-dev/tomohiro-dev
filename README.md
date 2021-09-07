@@ -29,8 +29,8 @@
 - Laravel
 - Docker
 - Amazon Web Service
-- MySQL
 - Terraform
+- MySQL
 
 
 
