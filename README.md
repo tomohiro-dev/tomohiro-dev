@@ -28,8 +28,8 @@
 
 - Laravel
 - Docker
-- Amazon Web Service
-()
+- Amazon Web Service \
+(ACM, Route53, S3, Internet Gateway, NAT Gateway, Fargate, ElastiCache, RDS, ECR, Parameter Store, ClodWatch Logs)
 - Terraform
 - MySQL
 
