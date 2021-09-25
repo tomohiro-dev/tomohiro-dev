@@ -30,7 +30,8 @@
 - Docker
 - Amazon Web Service \
 (ACM, Route53, S3, Internet Gateway, NAT Gateway, Fargate, ElastiCache, RDS, ECR, Parameter Store, CloudWatch Logs)
-- Terraform
+- Terraform \
+(v0.14.*, v1.0.*)
 - MySQL
 
 
