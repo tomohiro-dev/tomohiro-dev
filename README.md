@@ -13,7 +13,7 @@
 
 - Vue.js
 - storybook.js
-- Javascript
+- JavaScript
 - Firebase
 - Cordova
 - Css, Scss
