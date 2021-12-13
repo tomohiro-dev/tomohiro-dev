@@ -28,10 +28,7 @@
 
 - Laravel
 - Docker
-- Amazon Web Service \
-(ACM, Route53, S3, Internet Gateway, NAT Gateway, Fargate, ElastiCache, RDS, ECR, Parameter Store, CloudWatch Logs)
-- Terraform \
-(v0.14.x, v1.0.x)
+- Amazon Web Service
 - MySQL
 - Github Actions
 
@@ -41,6 +38,8 @@
 👀 I've touched it a little.
 
 - Gatsby.js
+- Terraform \
+(v0.14.x, v1.0.x)
 - Python
 - Flask
 - Flutter
