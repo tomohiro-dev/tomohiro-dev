@@ -24,7 +24,8 @@
 
 
 ## Study 💻
-🌱 I’m currently learning about Back-End.
+🌱 I’m currently learning about Back-End. \
+　 Accumulating learning little by little.
 
 - Laravel
 - Docker
