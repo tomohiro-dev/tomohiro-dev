@@ -40,11 +40,11 @@
 - Terraform \
 (v0.14.x, v1.0.x)
 - Python
-- Flask
 - Flutter
 - React.js
 - Swift
-- Graph QL
+- GO
+- TypeScript
 
 
 ## Like 🏋️‍♂️
