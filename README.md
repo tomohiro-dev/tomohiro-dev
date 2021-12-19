@@ -43,7 +43,7 @@
 - Flutter
 - React.js
 - Swift
-- GO
+- Go
 - TypeScript
 
 
