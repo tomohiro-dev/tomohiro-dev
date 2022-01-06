@@ -24,9 +24,8 @@
 
 
 ## Study 💻
-🌱 I’m currently learning about Back-End. \
-　 Accumulating learning little by little.
-
+🌱 Currently I'm interested in DevOps. \
+　 
 - Laravel
 - Docker
 - Amazon Web Service
@@ -34,7 +33,7 @@
 
 
 ## Interests 🤓
-👀 I've touched it a little.
+👀 I've touched it a little. \
 
 - Gatsby.js
 - Terraform \
