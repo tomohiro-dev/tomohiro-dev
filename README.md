@@ -25,25 +25,25 @@
 
 ## Study 💻
 🌱 Currently I'm interested in DevOps. \
-　 
-- Laravel
+
 - Docker
 - Amazon Web Service
 - Github Actions
+- Laravel
 
 
 ## Interests 🤓
 👀 I've touched it a little. 
 
-- Gatsby.js
+- TypeScript
+- Go
 - Terraform \
 (v0.14.x, v1.0.x)
 - Python
 - Flutter
 - React.js
 - Swift
-- Go
-- TypeScript
+- Gatsby.js
 
 
 ## Like 🏋️‍♂️
@@ -51,7 +51,7 @@
 
 - Hit the Gym.
 - Go into a sauna.
-- Take a bath in a hot springs.
+- Take a bath or a hot springs.
 - Ride a road bike.
 - Catch a wave.
 - Meditation.
