@@ -24,7 +24,7 @@
 
 
 ## Study 💻
-🌱 Currently I'm interested in DevOps. \
+🌱 Currently I'm interested in DevOps.
 
 - Docker
 - Amazon Web Service
