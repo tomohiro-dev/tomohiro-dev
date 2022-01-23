@@ -37,8 +37,7 @@
 
 - TypeScript
 - Go
-- Terraform \
-(v0.14.x, v1.0.x)
+- Terraform
 - Python
 - Flutter
 - React.js
