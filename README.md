@@ -41,7 +41,6 @@
 - Python
 - Flutter
 - React.js
-- Swift
 - Gatsby.js
 
 
