@@ -8,8 +8,10 @@
 
 
 ## Work 💁‍♂️
-🖥  Mainly Front-End dev. \
-    Web app and Android app developing.
+🌱 Currently I'm Started back-end dev.
+
+Previously Front-End dev. \
+Web app and Android app developing.
 
 - Vue.js
 - storybook.js
@@ -24,7 +26,7 @@
 
 
 ## Study 💻
-🌱 Currently I'm interested in DevOps.
+🌱 I'm interested in DevOps.
 
 - Docker
 - Amazon Web Service
