@@ -23,7 +23,11 @@ Web app and Android app developing.
 - Vuetify
 - Kotlin
 - SQL
-
+- Laravel
+- Docker
+- VirtualBox
+- Vagrant
+- Amazon Web Service
 
 ## Study 💻
 🌱 I'm interested in DevOps.
