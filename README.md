@@ -35,8 +35,8 @@ Web app and Android app developing.
 - Docker
 - Amazon Web Service
 - Github Actions
+- php
 - Laravel
-
 
 ## Interests 🤓
 👀 I've touched it a little. 
