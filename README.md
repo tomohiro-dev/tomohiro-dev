@@ -13,51 +13,24 @@
 Previously Front-End dev. \
 Web app and Android app developing.
 
-- Vue.js
-- storybook.js
-- JavaScript
-- Firebase
-- Cordova
-- Css, Scss
-- Nuxt.js
-- Vuetify
-- Kotlin
-- SQL
-- Laravel
-- Docker
-- VirtualBox
-- Vagrant
-- Amazon Web Service
+- Vue.js / storybook.js / JavaScript / Firebase / Cordova / Css, Scss / Nuxt.js / Vuetify / Kotlin / MySQL / Laravel /
+Docker / VirtualBox / Vagrant / AWS
 
 ## Study 💻
-🌱 I'm interested in DevOps.
+🌱 I'm interested in SRE.
 
-- Docker
-- Amazon Web Service
-- Github Actions
-- php
-- Laravel
+- Docker / Amazon Web Service / Github Actions
+- php / Laravel / TypeScript / Next.js
 
 ## Interests 🤓
 👀 I've touched it a little. 
 
-- TypeScript
-- Go
-- Terraform
-- Python
-- Flutter
-- React.js
-- Gatsby.js
+- Go / Terraform / Python / Flutter / React.js
 
 
 ## Like 🏋️‍♂️
-😌 It is extreamly important things for my life.
+😌 Extreamly important things for my life.
 
-- Hit the Gym.
-- Go into a sauna.
-- Take a bath or a hot springs.
-- Ride a road bike.
-- Catch a wave.
-- Meditation.
+- Workout / Sauna / hot springs / Road bike / Surfing / Meditation
 - Desigining an experience for someone's success.
 
