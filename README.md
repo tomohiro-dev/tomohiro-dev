@@ -1,11 +1,19 @@
-# About me
-
-###  Hi there 👋
-
+# About me 👀
+**Hi there** 👋 \
 **Welcome! Thank you for visiting. Enjoy your stay. 🙂 👍**
 
-[![](https://raw.githubusercontent.com/soregashi-27/aboutMe/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+Software Engineer in JP.
 
-- Software Engineer in JP.
-- Currently I build with `php`, `Laravel`, `Python`, `javaScript`, `TypeScript`, `Next.js`...
-- I enjoy coding, reading, marketing and lifting weights like a body builder :)
+## Name ✍️
+Tomo
+
+## Skills 👨‍💻
+PHP, Laravel, Python, AWS CDK
+
+## Interests
+Currently I'm interested in TypeScript, Next.js, Astro and RUST.
+
+## Likes
+Coding, Reading, Marketing, Writing, Lifting weights like a body builder :)
+
+[![](https://raw.githubusercontent.com/soregashi-27/aboutMe/main/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
