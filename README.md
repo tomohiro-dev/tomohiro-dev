@@ -1,4 +1,4 @@
-# About me 👀
+# About me
 **Hi there** 👋 \
 **Welcome! Thank you for visiting. Enjoy your stay. 🙂 👍**
 
@@ -14,5 +14,5 @@ PHP, Laravel, Python, AWS CDK
 Currently I'm interested in TypeScript, Next.js, Astro and RUST.
 
 ## Likes
-Coding, Reading books, Marketing, Writing, Lifting weights like a body builder :)
+Coding, Reading books, Marketing, Writing, and Lifting weights like a body builder :)
 
