@@ -1,6 +1,5 @@
 # About me
-**Hi there** 👋 \
-**Welcome! Enjoy your stay. 🙂 👍**
+**Hi there! Enjoy your stay. 🙂 👍**
 
 Software Engineer in JP.
 
