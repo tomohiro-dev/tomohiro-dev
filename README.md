@@ -7,7 +7,7 @@ Software Engineer in JP.
 Tomo
 
 ## Skills 👨‍💻
-PHP, Laravel, Python, AWS CDK
+PHP, Laravel, Python, AWS CDK(TypeScript, Python)
 
 ## Interests
 - Highly interested in backend development.
