@@ -13,6 +13,7 @@ PHP, Laravel, Python, AWS CDK(TypeScript, Python)
 - Highly interested in backend development.
 - Passionate about building and operating serverless infrastructure.
   - Specialized in using AWS CDK for infrastructure as code.
+  - Improving Developer Experience and modernizing legacy systems.
 - Currently I'm interested in TypeScript, Next.js, Astro and RUST. / Frontend (hobbyist)
 
 ## Likes
