@@ -16,5 +16,4 @@ PHP, Laravel, Python, AWS CDK(TypeScript, Python)
 - Currently I'm interested in TypeScript, Next.js, Astro and RUST. / Frontend (hobbyist)
 
 ## Likes
-Coding, Reading books, Marketing, Writing, and Lifting weights like a body builder :)
-
+Coding, Reading, Marketing, Writing, and Lifting weights like a bodybuilder :)
