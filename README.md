@@ -1,13 +1,10 @@
 # About me
-**Hi there! Enjoy your stay. 🙂 👍**
-
-Software Engineer in JP.
-
-## Name ✍️
-Tomo
+- Software Engineer
+- Indie Hacker
+- JP
 
 ## Skills 👨‍💻
-PHP, Laravel, Python, AWS CDK(TypeScript, Python)
+Python, AWS CDK(TypeScript, Python), PHP, Laravel
 
 ## Interests
 - Highly interested in backend development and cloud architecture.
