@@ -3,7 +3,7 @@
 - Indie Hacker
 - JP
 
-## Skills 👨‍💻
+## Skills
 Python, AWS CDK(TypeScript, Python), PHP, Laravel
 
 ## Interests
