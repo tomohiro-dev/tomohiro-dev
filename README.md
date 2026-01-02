@@ -1,8 +1,8 @@
 # About me
 - Software Engineer
 - Indie Hacker
-- JP
 - OSS Commiter
+- JP
 
 ## Skills
 Python, AWS CDK(TypeScript, Python), PHP, Laravel
