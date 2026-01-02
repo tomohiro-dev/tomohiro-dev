@@ -2,6 +2,7 @@
 - Software Engineer
 - Indie Hacker
 - JP
+- OSS Commiter
 
 ## Skills
 Python, AWS CDK(TypeScript, Python), PHP, Laravel
